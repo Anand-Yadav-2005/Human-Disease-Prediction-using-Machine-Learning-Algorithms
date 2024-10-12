@@ -1,0 +1,1 @@
+Human Disease Prediction using Machine Learning applies algorithms like logistic regression, decision trees, and neural networks to predict diseases based on patient data (symptoms, medical history). The process involves data collection, preprocessing, feature selection, and model training/testing to accurately forecast disease likelihood for early diagnosis.
